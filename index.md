@@ -8,7 +8,7 @@ Some notes on various topics related to my current interests some of which I no 
 
 ## Text Adventures
 
-* [Something Nasty in the Cellar](https://github.com/nigeltc/something-nasty)
+* [Something Nasty in the Cellar](https://github.com/nigeltc/something_nasty)
 
 ## Git/Github
 
