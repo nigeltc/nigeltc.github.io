@@ -8,7 +8,7 @@ Some notes on various topics related to my current interests some of which I no 
 
 ## NLP Resources
 
-* [NLP Links](https://github.com/nigeltc/nlp.md)
+* [NLP Links](https://github.com/nigeltc/nlp)
 
 ## Text Adventures
 
