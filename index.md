@@ -6,6 +6,10 @@ Some notes on various topics related to my current interests some of which I no 
 
 * [Emacs Configuration](https://github.com/nigeltc/emacs-config)
 
+## NLP Resources
+
+* [NLP Links](https://github.com/nigeltc/nlp.md)
+
 ## Text Adventures
 
 * [Something Nasty in the Cellar](https://github.com/nigeltc/something_nasty)
