@@ -12,6 +12,11 @@
 * Libraries 
     * [Probabilistic Regular Expressions](https://github.com/insperatum/pregex)
 
+## Neural Networks
+* [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+* [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+* [Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
+
 ## Books
 * [Speech and Language Processing, Jurafsky, Dan and Martin, James H.](https://web.stanford.edu/~jurafsky/slp3/)
 
