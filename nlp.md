@@ -2,7 +2,7 @@
 ## Linguistic Resources
 * [WordNet (Princeton)](https://wordnet.princeton.edu/)
 * [Visual WordNet](https://www.visual-thesaurus.com/wordnet.php)
-* [Phonetic Symbols for English (UCL)](https://github.com/nigeltc/nigeltc.github.io/new/main)
+* [Phonetic Symbols for English (UCL)](https://www.phon.ucl.ac.uk/home/wells/phoneticsymbolsforenglish.htm)
 
 ## Tools and Libraries
 * [The Stanford Natural Language Processing Group](https://nlp.stanford.edu/)
